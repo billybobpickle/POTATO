@@ -4,7 +4,7 @@ POTATO
 POTATO is a very addicting, fun game that is designed to have you hooked on to the game until you win. It is where you start out as a small potato and then you eat smaller potatos then you get bigger. Once you get big enough, you will win. Designed by Jimmy Gloger and programed by Anthony Clemens.
 
 ===============
-    Copyright © October 2014 MicroTeknic
+    Copyright © October 2014 MicroTeknic Jimmy Gloger, & Anthony Clemens
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
